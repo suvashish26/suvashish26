@@ -15,11 +15,6 @@
 <a href="https://twitter.com/suvashish_shre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suvashish_shre" height="30" width="40" /></a>
 <a href="hhttps://www.linkedin.com/in/suvashish-shrestha-22bb661aa/r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvashish_shre" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suvashish_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvashish_" height="30" width="40" /></a>
-
-📊 &nbsp;**This week I spent my time on**
-
-
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
