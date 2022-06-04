@@ -1,4 +1,4 @@
-### Hi there, I am Suvashish <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></a>
+### Hi there, I am Suvashish 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning React
