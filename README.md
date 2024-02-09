@@ -1,3 +1,7 @@
+
+[![suvashish26's GitHub | Stats](https://stats.quine.sh/suvashish26/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=suvashish26)
+[![suvashish26's GitHub | Dependencies](https://stats.quine.sh/suvashish26/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=suvashish26)
+
 ### Hi there, I am Suvashish 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
@@ -22,6 +26,6 @@
   
 
 </details>
-[![suvashish26's GitHub | Stats](https://stats.quine.sh/suvashish26/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=suvashish26)
+
 
 
